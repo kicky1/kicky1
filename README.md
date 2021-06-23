@@ -1,4 +1,4 @@
-### Hi there, my name is Krzyszto Wicki and im Frontend Developer
+### Hi there, my name is Krzysztof Wicki and im Frontend Developer
 
 
 - 🔭 I’m currently working on React.js projects
