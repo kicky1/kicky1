@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on React.js and Next.js projects
 - 💬 Ask me about anything u want
-- 📫 How to reach me: krzysztofwicki.work@gmail.com
+- 📫 How to reach me: krzysztofwicki.it@gmail.com
 
