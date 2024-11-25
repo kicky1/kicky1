@@ -1,7 +1,7 @@
 
 # 👨‍💻 **Krzysztof Wicki** - Software Developer at [Sevenet S.A.](https://sevenet.pl/en)
 
-🚀 Passionate Software Developer | React | Next.js | REST | GraphQL | Node.js | TypeScript
+🚀 Software Developer | React | Next.js | REST | GraphQL | Node.js | TypeScript
 
 ---
 
