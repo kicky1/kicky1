@@ -73,9 +73,3 @@ Feel free to reach out if you'd like to collaborate on a project or just chat ab
 ## 📊 **Top Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kicky1&layout=donut&theme=dracula&exclude_repo=eTrener2)
-
----
-
-## 🏆 **GitHub Trophies**
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kicky1&theme=dracula&rank=-?&column=3&margin-w=15&margin-h=15)
