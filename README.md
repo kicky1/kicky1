@@ -1,5 +1,7 @@
 
-# 👨‍💻 **Krzysztof Wicki** - Software Developer at [Sevenet S.A.](https://sevenet.pl/en)
+# 👨‍💻 **Krzysztof Wicki** 
+- CEO of [Extend UI](https://extend-ui.com)
+- Software Developer at [Sevenet S.A.](https://sevenet.pl/en)
 
 🚀 Software Developer | React | Next.js | REST | GraphQL | Node.js | TypeScript
 
