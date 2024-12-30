@@ -9,7 +9,7 @@
 
 ## 🔗 **Connect With Me**
 
-- [LinkedIn](https://www.linkedin.com/in/krzysztof-wicki-ba19571b5/) | [Portfolio](https://krzysztofwicki.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/krzysztof-wicki-ba19571b5/) | [Portfolio](https://krzysztofwicki-portfolio.vercel.app)
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about tech!  
 ✉️ **Email**: krzysztofwicki.it@gmail.com
